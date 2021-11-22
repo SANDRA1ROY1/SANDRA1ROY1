@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Sandra Roy Aricatt
-- 👀 I’m interested in Music, Dance and Gardening
+- 👀 I’m interested in music and dance.
 - 🌱 I’m currently working on Java Microservices and building mobile applications (android).
 - 📫 You can reach me on sandraroyaricatt@gmail.com, https://www.linkedin.com/in/sandra-roy-aricatt/
 
